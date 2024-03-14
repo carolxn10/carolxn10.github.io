@@ -1,0 +1,62 @@
+
+body{
+    background-color: black;
+    color: #009966;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+}
+.design{
+    width: 40%;
+    height: 236vh;
+    padding: 28px 3%;
+    margin: auto;
+    box-shadow: 0 0 25px #0a4632;
+}
+.dados h4{
+    text-align: center;
+}   
+h1{
+    text-align: center;
+}
+img{
+    border-radius: 25px;
+}
+figure{
+    text-align: center;
+    filter: grayscale(100%);
+}
+figure:hover{
+    filter: grayscale(0%);
+}
+p{
+    text-align: justify;
+}
+p:hover{
+    color: #0ae79e;
+}
+.discricao h2{
+    text-align: center;
+
+}
+
+label{
+    color: #009966;
+}
+label input{
+    border: double #009966 2.5px;
+    background-color: #000;
+    color: #009966;
+    margin: 2px;
+}
+textarea{
+    background-color: #000;
+    color: #009966;
+    border: double #009966;
+}
+button{
+    background-color: #009966;
+    color: black;
+}
+.habilidades h2:hover{
+    background: #24c48f;
+    color: #0a4632;
+}
