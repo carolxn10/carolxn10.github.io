@@ -6,10 +6,10 @@ body{
 }
 .design{
     width: 40%;
-    height: 236vh;
+    height: 233vh;
     padding: 28px 3%;
     margin: auto;
-    box-shadow: 0 0 25px #0a4632;
+    box-shadow: 0 0 55px #127755;
 }
 .dados h4{
     text-align: center;
